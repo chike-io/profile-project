@@ -19,3 +19,13 @@ p {
 li {
     margin-bottom: 15px;
 }
+nav {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
