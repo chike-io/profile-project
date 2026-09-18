@@ -29,3 +29,15 @@ nav a {
     text-decoration: none;
     font-weight: bold;
 }
+.about-section {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-section h2 {
+    margin-top: 25px;
+}
+
+.about-section p {
+    line-height: 1.6;
+}
