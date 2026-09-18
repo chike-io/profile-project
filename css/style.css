@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 25px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+li {
+    margin-bottom: 15px;
+}
